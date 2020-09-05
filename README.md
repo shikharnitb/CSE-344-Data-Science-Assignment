@@ -1,1 +1,1 @@
-# CSE-344-Data-Science-Assignment
+# CSE-344 Data Science Assignment
